@@ -7,7 +7,8 @@
  {
     "name": "Max",
     "code": ["Javascript" , "Typescript" , "Java"],
-    "pet": ["cat","dragon"]
+    "pet": ["cat","dragon"],
+    "zzz" : "make it ez and stupid"
  }
 
 ```
