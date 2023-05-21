@@ -2,6 +2,12 @@
 
 ![](https://github.com/Johnbak/Johnbak/blob/main/catrave.gif)
 
+ {
+    "name": "Max",
+    "code": ["Javascript" , "Typescript" , "Java"],
+    "pet": ["cat","dragon"]
+ }
+
 <!--
 **Johnbak/Johnbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
